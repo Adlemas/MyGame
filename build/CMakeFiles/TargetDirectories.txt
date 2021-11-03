@@ -1,0 +1,9 @@
+D:/MyGameCpp/MyGame/build/CMakeFiles/MyGame.dir
+D:/MyGameCpp/MyGame/build/CMakeFiles/edit_cache.dir
+D:/MyGameCpp/MyGame/build/CMakeFiles/rebuild_cache.dir
+D:/MyGameCpp/MyGame/build/external/glfw/CMakeFiles/edit_cache.dir
+D:/MyGameCpp/MyGame/build/external/glfw/CMakeFiles/rebuild_cache.dir
+D:/MyGameCpp/MyGame/build/external/glfw/src/CMakeFiles/rebuild_cache.dir
+D:/MyGameCpp/MyGame/build/external/glfw/src/CMakeFiles/glfw.dir
+D:/MyGameCpp/MyGame/build/external/glfw/src/CMakeFiles/update_mappings.dir
+D:/MyGameCpp/MyGame/build/external/glfw/src/CMakeFiles/edit_cache.dir
